@@ -1,5 +1,6 @@
 from transformers import pipeline
 from db import get_connection
+import torch
 
 translation_pipeline = pipeline("translation_en_to_de", model="Helsinki-NLP/opus-mt-en-de")
 
