@@ -1,0 +1,96 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IPython history
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# pytest
+.cache
+
+# mypy
+.mypy_cache/
+
+# pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# VSCode settings folder
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Jupyter Notebook metadata file (optional, some like to ignore)
+*.nbmetadata
+
+# Jupyter runtime files
+.jupyter/
+
+# Logs
+*.log
+
+# Environment variables file (if any)
+.env
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# PyCharm project files
+.idea/
+
+# Python virtual environments sometimes in other folders
+env/
+venv/
+
+# Jupyter output (if you want to ignore outputs, optional)
+*.nbconvert.ipynb
+
+# Notebook checkpoints (important for Jupyter)
+.ipynb_checkpoints
+
